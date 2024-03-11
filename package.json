@@ -1,0 +1,22 @@
+{
+  "name": "npmkarenpudjie",
+  "version": "3.2.1",
+  "description": "npmkarenpudjie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karenpudjie/npmkarenpudjie.git"
+  },
+  "keywords": [
+    "npmkarenpudjie"
+  ],
+  "author": "karenpudjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karenpudjie/npmkarenpudjie/issues"
+  },
+  "homepage": "https://github.com/Karenpudjie/npmkarenpudjie#readme"
+}
